@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+pydantic
+accelerate
+pandas
+scikit-learn
+numpy
+sentence-transformers
+faiss-cpu
+requests
+networkx
