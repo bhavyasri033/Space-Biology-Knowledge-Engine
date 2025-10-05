@@ -6,6 +6,8 @@
 
 The Space Biology Knowledge Engine is a comprehensive full-stack platform designed to accelerate NASA's space biology research through AI-powered insights and role-based dashboards. The platform serves three distinct user roles: **Scientists**, **Managers**, and **Mission Planners**, each with specialized interfaces and capabilities tailored to their specific needs.
 
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/c338bfe8-d00b-4a4d-94ba-d37e29967d3d" />
+
 ## 🔄 Website Workflow
 
 The platform operates on a three-tier architecture:
@@ -24,6 +26,10 @@ The platform operates on a three-tier architecture:
 - **Knowledge Graph**: Interactive visualization of research networks and collaboration opportunities
 - **Gap Analysis**: Identify research opportunities and unexplored areas
 - **Methodology Comparison**: Compare research approaches and their effectiveness
+- <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/5caff1b7-15fd-4816-91f9-22154ba83f2e" />
+<img width="1518" height="836" alt="image" src="https://github.com/user-attachments/assets/665107da-b93f-4c28-a9a5-25c3032c59a5" />
+
+
 
 ### 💼 Manager Dashboard
 - **Investment Analytics**: ROI tracking, funding analysis, and budget optimization
@@ -31,6 +37,10 @@ The platform operates on a three-tier architecture:
 - **Resource Optimization**: Cost-saving recommendations and efficiency metrics
 - **Team Performance**: Research team analytics and productivity tracking
 - **Strategic Insights**: Business intelligence for research investment decisions
+- <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/857285eb-37a1-4f2a-8cbd-c76df3037007" />
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/58e59492-5c9b-4833-b07b-327ad34f1b1a" />
+
+
 
 ### 🚀 Mission Planner Interface
 - **Mission Feasibility Analysis**: Comprehensive risk assessment with 0-100 scoring
@@ -38,6 +48,8 @@ The platform operates on a three-tier architecture:
 - **Crew Health Planning**: Exercise protocols and medical support requirements
 - **Real-time Data Integration**: Live ISS crew data and radiation monitoring
 - **AI Recommendations**: Mission optimization suggestions based on biological constraints
+- <img width="1899" height="1006" alt="image" src="https://github.com/user-attachments/assets/4a8e3c82-58e7-4153-9353-5278796dcb75" />
+
 
 ## 🛠️ Tech Stack
 
