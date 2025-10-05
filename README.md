@@ -1,4 +1,4 @@
-# 🚀 Space Biology Knowledge Engine
+#  Space Biology Knowledge Engine
 
 > **An AI-powered research platform for NASA's space biology research with comprehensive analytics, cross-domain synergy analysis, and mission readiness assessment.**
 
@@ -17,6 +17,10 @@ The platform operates on a three-tier architecture:
 3. **Data Layer**: Processes NASA Task Book datasets and PubMed papers with vector embeddings
 
 **Core Workflow**: Users select their role → Access specialized dashboard → Interact with AI-powered tools → Generate insights and reports → Make data-driven decisions.
+
+### 📺 Watch the Complete Flow
+You can watch the entire flow of the website and see all features in action here: [**YouTube Demo Video**](https://youtu.be/OUCHEOKKYC4?si=0Ay2VDMlxtutHYRg)
+
 
 ## 👥 Role-Based Features
 
